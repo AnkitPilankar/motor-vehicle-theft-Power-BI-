@@ -19,4 +19,5 @@ use kpi , slicer ,column chart,bar graph,line chart,pie chart,tooltip,button
 then make new table and get year,month,date all date format
 
 #to calulate avg age extract year from date column we ceated in new table then using power query do date(year)-model_year we get age value then use mean to get avg date.
+
 #we combine all vehicle type in some common vehicle type using group by in power query like light car,heavy car,electric car in one vehicle type 'car' and rest on we use tooltip to get vehicle type get by pointing vehictype_group by  
