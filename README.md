@@ -5,7 +5,7 @@ Hello everyone here i created a motor-vehicle-theft-Power-BI-dashboard to get an
 # the dataset is taken from maven analytics https://www.mavenanalytics.io/data-playground?datasetId=25S4VOgB1WMVMAUo90JzSv
 
 here we answer all the question asked for analysis by creating dashboard
-# total vehicle stolen 
+#total vehicle stolen 
 #unique vehicle stolen
 #average age of vehicle stolen in particular year or month
 #car is most highest vehicle has been stolen
@@ -21,4 +21,4 @@ then make new table and get year,month,date all date format
 
 #to calulate avg age extract year from date column we ceated in new table then using power query do date(year)-model_year we get age value then use mean to get avg date
 
-# we combine all vehicle type in some common vehicle type using group by in power query like light car,heavy car,electric car in one vehicle type 'car' and rest on we use tooltip to get vehicle type get by pointing vehictype_group by  
+#we combine all vehicle type in some common vehicle type using group by in power query like light car,heavy car,electric car in one vehicle type 'car' and rest on we use tooltip to get vehicle type get by pointing vehictype_group by  
