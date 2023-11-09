@@ -27,8 +27,3 @@ then make new table and get year,month,date all date format
 
 #we combine all vehicle type in some common vehicle type using group by in power query like light car,heavy car,electric car in one vehicle type 'car' and rest on we use tooltip to get vehicle type get by pointing vehictype_group by  
 
-
-image of bi dashboard
-
-
-![s](https://github.com/AnkitPilankar/motor-vehicle-theft-Power-BI-/assets/139122495/6ddf7fd3-9684-40a5-a932-ac32972bbb7a)
