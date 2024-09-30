@@ -1,12 +1,11 @@
 # motor-vehicle-theft-Power-BI-
 
+play with dashboard
+https://www.novypro.com/profile_projects/ankitpilankar
 
 image of bi dashboard
 
 ![s](https://github.com/AnkitPilankar/motor-vehicle-theft-Power-BI-/assets/139122495/6ddf7fd3-9684-40a5-a932-ac32972bbb7a)
-
-play with dashboard
-https://www.novypro.com/profile_projects/ankitpilankar
 
 Hello everyone here i created a motor-vehicle-theft-Power-BI-dashboard to get analysis of stolen vehicle in new-zealand country.
 
